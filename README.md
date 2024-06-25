@@ -1,1 +1,1 @@
-# zama-commit-contri
+# Zama Testnet Example
